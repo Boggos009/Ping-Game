@@ -6,6 +6,7 @@
 	],
 	"settings": {
 		"files.associations": {
+			"*.ejs": "html",
 			"raylib.h": "c",
 			"math.h": "c",
 			"blocks.h": "c",
@@ -50,7 +51,21 @@
 			"stdexcept": "cpp",
 			"streambuf": "cpp",
 			"cinttypes": "cpp",
-			"typeinfo": "cpp"
+			"typeinfo": "cpp",
+			"bit": "cpp",
+			"charconv": "cpp",
+			"compare": "cpp",
+			"concepts": "cpp",
+			"ctime": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"numeric": "cpp",
+			"random": "cpp",
+			"format": "cpp",
+			"numbers": "cpp",
+			"span": "cpp",
+			"text_encoding": "cpp",
+			"variant": "cpp"
 		},
 		"git.autoRepositoryDetection": false,
 		"git.enabled": false
