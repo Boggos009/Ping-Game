@@ -11,10 +11,10 @@ It features a simple **home screen** and smooth, minimal gameplay inspired by ol
 
 ## 🖼 Screenshots
 ### Home Screen
-![Home Screen](screenshots/homescreen.png)
+![Home Screen](homescreen.png)
 
 ### Gameplay
-![Gameplay](screenshots/game.png)
+![Gameplay](game.png)
 
 ## 🧰 Built With
 <p align="left">
